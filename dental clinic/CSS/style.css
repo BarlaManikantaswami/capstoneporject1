@@ -1,0 +1,495 @@
+div.apple{
+    position: relative;
+    height: 960px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+div.dental{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    top: 40px;
+    left: 400px;
+    background-image: url("../Images/dental.png");
+    background-size: cover;
+    border-radius: 80%;
+}
+div.clinic{
+    position: absolute;
+    top: 30px;
+    left: 488px;
+    font-size: x-large;
+}
+div.sample{
+    position: absolute;
+    top: 84px;
+    left: 488px;
+    font-family: verdana;
+}
+.tel{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 38px;
+    left: 1050px;
+    background-image: url("../images2/tele.png");
+    background-size: cover;
+} 
+.num{
+    position: absolute;
+    top: 10px;
+    left: 1140px;
+    font-size:27px;
+}   
+.fran{
+    position: absolute;
+    top: 78px;
+    left: 1179px;
+}
+.ave{
+    position: absolute;
+    top: 94px;
+    left: 1070px;
+}
+div.smile{
+    position: absolute;
+    top: 180px;
+    left: 300px;
+    height: 250px;
+    width: 60%;
+    background-image: url("../Images/smile.png");
+    background-size: cover;
+}
+h1{
+    padding-left: 40px;
+}
+.change{
+    padding-left: 40px;
+}
+.our{
+    position: absolute;
+    top: 440px;
+    left: 600px;
+}
+.implant{
+    position: absolute;
+    top: 520px;
+    left: 330px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../Images/dentalimplant.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+.ram{
+    position: absolute;
+    top: 599px;
+    left: 338px;
+}
+.rom{
+    position: absolute;
+    top: 639px;
+    left: 275px;
+}
+.year{
+    position: absolute;
+    top: 659px;
+    left: 320px;
+}
+.braces{
+    position: absolute;
+    top: 520px;
+    left: 710px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../Images/braces.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+.leap{
+    position: absolute;
+    top: 600px;
+    left: 730px;
+}
+.text{
+    position: absolute;
+    top: 640px;
+    left: 620px;
+}
+.conc{
+    position: absolute;
+    top: 660px;
+    left: 665px;
+}
+.whitening{
+    position: absolute;
+    top: 520px;
+    left: 1100px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../images2/white.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+.pro{
+    position: absolute;
+    top: 600px;
+    left: 1104px;
+}
+.bgg{
+    position: absolute;
+    top: 640px;
+    left: 1032px;
+}  
+.cga{
+    position: absolute;
+    top: 661px;
+    left: 1079px;
+} 
+.lgh{
+    position: absolute;
+    top: 750px;
+    left: 335px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../images2/crown.png");
+    background-size: cover;
+    border-radius: 90%;
+} 
+.ikl{
+    position: absolute;
+    top: 825px;
+    left: 320px;
+}
+.lop{
+    position: absolute;
+    top: 865px;
+    left: 280px;
+}
+.crown{
+    position: absolute;
+    top: 885px;
+    left: 324px;
+}
+.rat{
+    position: absolute;
+    top: 750px;
+    left: 720px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../images2/prevetion.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+.lion{
+    position: absolute;
+    top: 825px;
+    left: 730px;
+}
+.tiger{
+    position: absolute;
+    top: 865px;
+    left: 625px;
+}
+.pig{
+    position: absolute;
+    top: 885px;
+    left: 670px;
+}
+.cosmetic{
+    position: absolute;
+    top: 750px;
+    left: 1100px;
+    height: 90px;
+    width: 80px;
+    background-image: url("../images2/cosmes.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+.happy{
+    position: absolute;
+    top: 825px;
+    left: 1080px;
+}
+.sad{
+    position: absolute;
+    top: 866px;
+    left: 1035px;
+}
+.rude{
+    position: absolute;
+    top: 885px;
+    left: 1080px;
+}
+.brush{
+    position: relative;
+    height: 280px;
+    width: 100%;
+    background-color: white;
+    background-image: url("../images2/pastes.png");
+    background-size: cover;
+}
+.pri{
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+}
+.que{
+    position: absolute;
+    top: 72px;
+    left: 680px;
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+}
+.all{
+    position: absolute;
+    top: 98px;
+    left: 465px;
+    color: white;
+}   
+.the{
+    position: absolute;
+    top: 115px;
+    left: 450px;
+    color: white;
+}   
+.best{
+    position: absolute;
+    top: 133px;
+    left: 465px;
+    color: white;
+}   
+.exam{
+    position: absolute;
+    top: 150px;
+    left: 650px;
+    color: white;
+}   
+.jeep{
+    position: relative;
+    height: 1000px;
+    width: 100%;
+    background-color: white;
+}
+.abc{
+    text-align: center;
+}
+.def{
+    background-color: aqua;
+    color: white;
+    margin-left: 660px;
+    font-family: bold;
+    border: opx solid white;
+    border-radius: 2px;
+    padding: 10px 15px;
+}
+.ghi{
+    height: 200px;
+    width: 40%;
+    background-image: url("../Images/mri.png");
+    background-size: cover;
+    margin-left: 460px;
+    margin-top: 60px;
+}
+div.jkl{
+    position: relative;
+    height: 350px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-top: 30px;
+}
+.mno{
+    padding-top: 50px;
+    padding-left: 550px;
+}
+.pqr{
+    padding-left: 550px;
+}
+.stu{
+    padding-left: 700px;
+}
+div.inline{
+    position: absolute;
+    top: 80px;
+    left: 220px;
+    height: 200px;
+    width: 23.3%;
+    background-image: url("../Images/firstvisit.png");
+    background-size: cover;
+}
+div.internal{
+    position: absolute;
+    top: 80px;
+    left: 600px;
+    height: 200px;
+    width: 23.3%;
+    background-color: whitesmoke;
+    background-image: url("../Images/emergencycare.png");
+    background-size: cover;
+}
+div.external{
+    position: absolute;
+    top: 80px;
+    left: 980px;
+    height: 200px;
+    width: 23.3%;
+    background-color: azure;
+    background-image: url("../Images/patientform.png");
+    background-size: cover;
+}
+div.vwx{
+    position: absolute;
+    top: 280px;
+    left: 340px;
+    height: 10px;
+    width: 10%px;
+}
+div.john{
+    position: absolute;
+    top: 280px;
+    left: 700px;
+    height: 10px;
+    width: 10%;
+}
+div.puppy{
+    position: absolute;
+    top: 280px;
+    left: 1080px;
+    height: 10px;
+    width: 10%;
+}
+.cute{
+    text-align: center;
+    padding-top: 50px;
+    font-family: verdana;
+}
+.api{
+    padding-left: 500px;
+    font-size: large;
+}
+.bye{
+    padding-left: 586px;
+    font-size: large;
+}
+div.zoo{
+    position: relative;
+    height: 980px;
+    width: 100%;
+    background-color: white;
+    margin-top: 15px;
+    border: 0px solid black;
+}
+div.red{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    height: 180px;
+    width: 200px;
+    background-image: url("../Images/doctor1.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+div.green{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    height: 180px;
+    width: 200px;
+    background-image: url("../Images/doctor2.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+div.yellow{
+    position: absolute;
+    top: 100px;
+    left: 1050px;
+    height: 180px;
+    width: 200px;
+    background-image: url("../Images/doctor3.png");
+    background-size: cover;
+    border-radius: 90%;
+}
+div.orange{
+    position: absolute;
+    top: 270px;
+    left: 196px;
+    font-size: x-large;
+}
+div.blue{
+    position: absolute;
+    top: 270px;
+    left: 656px;
+    font-size: x-large;
+}
+div.violet{
+    position: absolute;
+    top: 270px;
+    left: 1106px;
+    font-size: x-large;
+}
+div.boy{
+    position: absolute;
+    top: 340px;
+    left: 240px;
+}
+div.girl{
+    position: absolute;
+    top: 340px;
+    left: 700px;
+}
+div.pen{
+    position: absolute;
+    top: 340px;
+    left: 1155px;
+}
+.flute{
+    position: absolute;
+    height: 400px;
+    width: 100%;
+    top: 440px;
+    background-image: url("../Images/spulse.png");
+    background-size: cover;
+}
+.ap{
+    position: absolute;
+    top: 840px;
+    left: 180px;
+    font-size: x-large;
+}
+.by{
+    position: absolute;
+    top: 840px;
+    left: 930px;
+    font-size: x-large;
+}
+.cz{
+    position: absolute;
+    top: 905px;
+    left: 180px;
+}
+.xr{
+    position: absolute;
+    top: 932px;
+    left: 180px;
+}
+.vd{
+    position: absolute;
+    top: 957px;
+    left: 180px;
+    color: aqua;
+}
+.wr{
+    position: absolute;
+    top: 936px;
+    left: 930px;
+    
+}
+.yz{
+    position: absolute;
+    top: 955px;
+    left: 930px;
+}
